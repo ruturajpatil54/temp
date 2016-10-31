@@ -1,0 +1,32 @@
+_id,status,driver.name,vendor.name,pickup_distance,receipt.distance,receipt.total_bill,receipt.priceWithoutCoupon,receipt.service_tax,receipt.swach_bharat_tax
+ObjectId(581059bddb6c7166485ec8ea),time_out,,,,,,,,
+ObjectId(58105a31db6c7166485ec8eb),time_out,,,,,,,,
+ObjectId(58105ab2db6c7166485ec8ec),rejected,,,,,,,,
+ObjectId(58105b4adb6c7166485ec8ee),rider_canceled,,,,,,,,
+ObjectId(58105b82db6c7166485ec8ef),rider_canceled,,,,,,,,
+ObjectId(58105bd4db6c7166485ec8f0),time_out,,,,,,,,
+ObjectId(58105c74db6c7166485ec8f1),time_out,,,,,,,,
+ObjectId(5810601c8a32893a4ae06035),ride_complete,Test Driver,Moovlee,,0,74,70,3.92,0.14
+ObjectId(5810da1553358eb35bae9d9a),rider_canceled,,,,,,,,
+ObjectId(5810da3a53358eb35bae9d9b),ride_complete,Test Driver,Test Vendor,,0.04,74,70,3.92,0.14
+ObjectId(5810e36353358eb35bae9d9e),ride_complete,Test Driver,Test Vendor,,0,63,79,4.42,0.16
+ObjectId(5812ca862aa34cc33c9b966e),ride_complete,Test Driver,Test Vendor,,0,74,70,3.92,0.14
+ObjectId(5812cedb2aa34cc33c9b9670),time_out,,,,,,,,
+ObjectId(5812d444fe98353708dbb1be),rider_canceled,,,,,,,,
+ObjectId(5812d4b936bb133f09d111b2),rider_canceled,Test Driver,Test Vendor,,,,,,
+ObjectId(5812d53a36bb133f09d111b3),ride_complete,Test Driver,Test Vendor,,0,74,70,3.92,0.14
+ObjectId(5812d71d8af2db0e0cd389b2),rider_canceled,Test Driver,Test Vendor,,,,,,
+ObjectId(5812d7628af2db0e0cd389b3),ride_complete,Test Driver,Test Vendor,,0,74,70,3.92,0.14
+ObjectId(5812ff43505b24e537a03d7e),rider_canceled,,,,,,,,
+ObjectId(5813269c0386e7c164304c0a),ride_complete,Test Driver,Test Vendor,,0,74,70,3.92,0.14
+ObjectId(58132f39212e97d06aac749f),ride_complete,Test Driver,Test Vendor,,0,74,70,3.92,0.14
+ObjectId(58132f8b212e97d06aac74a1),ride_complete,Test Driver,Test Vendor,,0,74,70,3.92,0.14
+ObjectId(5814bb06212e97d06aac74cd),ride_complete,Soumyadip,Test Vendor,,0.01,74,70,3.92,0.14
+ObjectId(5814bb8e212e97d06aac74cf),ride_complete,Soumyadip,Test Vendor,,0,74,70,3.92,0.14
+ObjectId(5814de4ae6a248715b8c8245),rider_canceled,,,,,,,,
+ObjectId(5814de9fe6a248715b8c8246),ride_complete,Test Driver,Test Vendor,876,0,74,70,3.92,0.14
+ObjectId(58172ac6e6a248715b8c8292),start_ride,K Muthusamy,moovlee - CBE,4.894,,,,,
+ObjectId(581733bae6a248715b8c829d),ride_complete,K Muthusamy,moovlee - CBE,1,3.37,66,63,3.53,0.13
+ObjectId(58173a07e6a248715b8c82a1),rider_canceled,,,,,,,,
+ObjectId(58173a31e6a248715b8c82a3),rider_canceled,K Muthusamy,moovlee - CBE,,,,,,
+ObjectId(58173aa9e6a248715b8c82a4),ride_complete,K Muthusamy,moovlee - CBE,117,4.15,4,71,3.98,0.14
