@@ -1,0 +1,11 @@
+driver.name,driver.phone_1,vendor.name,pickup_distance,receipt.distance,receipt.total_bill,receipt.priceWithoutCoupon,receipt.discount,receipt.service_tax,receipt.swach_bharat_tax,coupon_obj[0].code
+,,,,,,,,,,
+K Muthusamy,9500556500,moovlee - CBE,1,0.02,52,50,,2.8,0.1,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+S Karunakaran,7373949191,moovlee - CBE,1,0,52,50,,2.8,0.1,
+S Karunakaran,7373949191,moovlee - CBE,1,0,52,50,,2.8,0.1,
+Amlan Dutta,9900505372,Test Vendor,11.846,6.28,5,97,150,5.43,0.19,
+,,,,,,,,,,
