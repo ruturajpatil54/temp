@@ -1,0 +1,4 @@
+driver.name,driver.phone_1,vendor.name,pickup_distance,receipt.distance,receipt.total_bill,receipt.priceWithoutCoupon,receipt.discount,receipt.service_tax,receipt.swach_bharat_tax,coupon_obj[0].code,updatedAt
+Amlan Dutta,9900505372,Test Vendor,2171,0,74,70,,3.92,0.14,,2016-11-03T06:37:15.501Z
+Amlan Dutta,9900505372,Test Vendor,2171,0,74,70,,3.92,0.14,,2016-11-03T06:48:14.555Z
+,,,,,,,,,,,2016-11-03T08:18:36.309Z
