@@ -1,0 +1,114 @@
+driver.name,driver.phone_1,vendor.name,pickup_distance,user_id,user_obj[0].name,user_obj[0].email,user_obj[0].phone,receipt.distance,receipt.total_bill,receipt.priceWithoutCoupon,receipt.discount,receipt.service_tax,receipt.swach_bharat_tax
+,,,,ObjectId(58105998db6c7166485ec8e9),,,,,,,,,
+,,,,ObjectId(58105998db6c7166485ec8e9),,,,,,,,,
+,,,,ObjectId(58105998db6c7166485ec8e9),,,,,,,,,
+,,,,ObjectId(58105998db6c7166485ec8e9),,,,,,,,,
+,,,,ObjectId(58105998db6c7166485ec8e9),,,,,,,,,
+,,,,ObjectId(58105998db6c7166485ec8e9),,,,,,,,,
+,,,,ObjectId(58105998db6c7166485ec8e9),,,,,,,,,
+Test Driver,8087844366,Moovlee,,ObjectId(58105998db6c7166485ec8e9),,,,0,74,70,,3.92,0.14
+,,,,ObjectId(58105998db6c7166485ec8e9),,,,,,,,,
+Test Driver,8087844366,Test Vendor,,ObjectId(58105998db6c7166485ec8e9),,,,0.04,74,70,,3.92,0.14
+Test Driver,8087844366,Test Vendor,,ObjectId(58105998db6c7166485ec8e9),,,,0,63,79,20,4.42,0.16
+Test Driver,8087844366,Test Vendor,,ObjectId(58105998db6c7166485ec8e9),,,,0,74,70,,3.92,0.14
+,,,,ObjectId(58105998db6c7166485ec8e9),,,,,,,,,
+,,,,ObjectId(58105998db6c7166485ec8e9),,,,,,,,,
+Test Driver,8087844366,Test Vendor,,ObjectId(58105998db6c7166485ec8e9),,,,,,,,,
+Test Driver,8087844366,Test Vendor,,ObjectId(58105998db6c7166485ec8e9),,,,0,74,70,,3.92,0.14
+Test Driver,8087844366,Test Vendor,,ObjectId(58105998db6c7166485ec8e9),,,,,,,,,
+Test Driver,8087844366,Test Vendor,,ObjectId(58105998db6c7166485ec8e9),,,,0,74,70,,3.92,0.14
+,,,,ObjectId(5811b7332aa34cc33c9b9663),,,,,,,,,
+Test Driver,8087844366,Test Vendor,,ObjectId(58105998db6c7166485ec8e9),,,,0,74,70,,3.92,0.14
+Test Driver,8087844366,Test Vendor,,ObjectId(58105998db6c7166485ec8e9),,,,0,74,70,,3.92,0.14
+Test Driver,8087844366,Test Vendor,,ObjectId(58105998db6c7166485ec8e9),,,,0,74,70,,3.92,0.14
+Soumyadip,9611110814,Test Vendor,,ObjectId(5814ba92212e97d06aac74cc),,,,0.01,74,70,,3.92,0.14
+Soumyadip,9611110814,Test Vendor,,ObjectId(5814ba92212e97d06aac74cc),,,,0,74,70,,3.92,0.14
+,,,,ObjectId(570d029d75d4361d7a9b54f8),,,,,,,,,
+Test Driver,8087844366,Test Vendor,876,ObjectId(58105998db6c7166485ec8e9),,,,0,74,70,,3.92,0.14
+K Muthusamy,9500556500,moovlee - CBE,4.894,ObjectId(5811b7332aa34cc33c9b9663),,,,,,,,,
+K Muthusamy,9500556500,moovlee - CBE,1,ObjectId(58172823e6a248715b8c828a),,,,3.37,66,63,,3.53,0.13
+,,,,ObjectId(58172823e6a248715b8c828a),,,,,,,,,
+K Muthusamy,9500556500,moovlee - CBE,,ObjectId(58172823e6a248715b8c828a),,,,,,,,,
+K Muthusamy,9500556500,moovlee - CBE,117,ObjectId(58172823e6a248715b8c828a),,,,4.15,4,71,150,3.98,0.14
+Test Driver,8087844366,Test Vendor,,ObjectId(58105998db6c7166485ec8e9),,,,,,,,,
+Soumyadip,9611110814,Test Vendor,636,ObjectId(5814ba92212e97d06aac74cc),,,,0.17,4,70,150,3.92,0.14
+,,,,ObjectId(5814ba92212e97d06aac74cc),,,,,,,,,
+,,,,ObjectId(5811b7332aa34cc33c9b9663),,,,,,,,,
+K Muthusamy,9500556500,moovlee - CBE,1,ObjectId(5811b7332aa34cc33c9b9663),,,,0.02,52,50,,2.8,0.1
+,,,,ObjectId(5811b7332aa34cc33c9b9663),,,,,,,,,
+,,,,ObjectId(5811b7332aa34cc33c9b9663),,,,,,,,,
+,,,,ObjectId(5811b7332aa34cc33c9b9663),,,,,,,,,
+,,,,ObjectId(5811b7332aa34cc33c9b9663),,,,,,,,,
+S Karunakaran,7373949191,moovlee - CBE,1,ObjectId(5811b7332aa34cc33c9b9663),,,,0,52,50,,2.8,0.1
+S Karunakaran,7373949191,moovlee - CBE,1,ObjectId(5811b7332aa34cc33c9b9663),,,,0,52,50,,2.8,0.1
+Amlan Dutta,9900505372,Test Vendor,11.846,ObjectId(58133c3d212e97d06aac74a5),,,,6.28,5,97,150,5.43,0.19
+,,,,ObjectId(58172823e6a248715b8c828a),,,,,,,,,
+K Muthusamy,9500556500,moovlee - CBE,1679,ObjectId(5819742c7d9d0b4565225f78),,,,0,2,50,150,2.8,0.1
+Amlan Dutta,9900505372,Test Vendor,2171,ObjectId(58172823e6a248715b8c828a),,,,4.92,85,81,,4.54,0.16
+Amlan Dutta,9900505372,Test Vendor,,ObjectId(58172823e6a248715b8c828a),,,,,,,,,
+Amlan Dutta,9900505372,Test Vendor,,ObjectId(58172823e6a248715b8c828a),,,,,,,,,
+Amlan Dutta,9900505372,Test Vendor,662,ObjectId(58172823e6a248715b8c828a),,,,3.76,74,70,,3.92,0.14
+K Muthusamy,9500556500,moovlee - CBE,106,ObjectId(5819a38b4c4fbfbf25f8cc6b),,,,0,52,50,,2.8,0.1
+K Muthusamy,9500556500,moovlee - CBE,4725,ObjectId(58173213e6a248715b8c8297),,,,6.05,5,90,150,5.04,0.18
+Moovlee,7406049668,moovlee - CBE,4611,ObjectId(5819babe4c4fbfbf25f8cc73),,,,10.2,8,149,150,8.34,0.3
+Moovlee,7406049668,moovlee - CBE,5.235,ObjectId(5814e6d9e6a248715b8c824c),,,,17.04,93,230,150,12.88,0.46
+Amlan Dutta,9900505372,Test Vendor,2171,ObjectId(58172823e6a248715b8c828a),,,,0,74,70,,3.92,0.14
+Amlan Dutta,9900505372,Test Vendor,2171,ObjectId(58172823e6a248715b8c828a),,,,0,74,70,,3.92,0.14
+,,,,ObjectId(580d6253db6c7166485ec8b2),,,,,,,,,
+,,,,ObjectId(58141256212e97d06aac74b4),,,,,,,,,
+Test Driver,9632065649,Test Vendor,134,ObjectId(58105998db6c7166485ec8e9),,,,0,74,70,,3.92,0.14
+Test Driver,9632065649,Test Vendor,134,ObjectId(58105998db6c7166485ec8e9),,,,0.05,74,70,,3.92,0.14
+S Karunakaran,8695595095,moovlee - CBE,,ObjectId(581b3bd08800d1ad400230fd),,,,,,,,,
+K Muthusamy,9500556500,moovlee - CBE,,ObjectId(581b3bd08800d1ad400230fd),,,,,,,,,
+S Karunakaran,8695595095,moovlee - CBE,,ObjectId(581b3bd08800d1ad400230fd),,,,,,,,,
+S Karunakaran,8695595095,moovlee - CBE,,ObjectId(581b3bd08800d1ad400230fd),,,,,,,,,
+Moovlee,7406049668,moovlee - CBE,4611,ObjectId(581b3bd08800d1ad400230fd),,,,6.44,5,103,150,5.77,0.21
+,,,,ObjectId(5819cfa44c4fbfbf25f8cc7a),,,,,,,,,
+,,,,ObjectId(581ccd9f74e205517f846c6f),,,,,,,,,
+Test Driver,9632065649,Test Vendor,134,ObjectId(58105998db6c7166485ec8e9),,,,0,74,70,,3.92,0.14
+,,,,ObjectId(581ccd9f74e205517f846c6f),,,,,,,,,
+,,,,ObjectId(581ccd9f74e205517f846c6f),,,,,,,,,
+,,,,ObjectId(581ccd9f74e205517f846c6f),,,,,,,,,
+,,,,ObjectId(581416a9212e97d06aac74b5),,,,,,,,,
+S Karunakaran,8695595095,moovlee - CBE,,ObjectId(581416a9212e97d06aac74b5),,,,,,,,,
+,,,,ObjectId(5819f74a4c4fbfbf25f8cc83),,,,,,,,,
+,,,,ObjectId(581352e3212e97d06aac74a8),,,,,,,,,
+,,,,ObjectId(5819f74a4c4fbfbf25f8cc83),,,,,,,,,
+,,,,ObjectId(5819f74a4c4fbfbf25f8cc83),,,,,,,,,
+,,,,ObjectId(581eb3ccd47aa3ba2daee4d9),,,,,,,,,
+,,,,ObjectId(581eb3ccd47aa3ba2daee4d9),,,,,,,,,
+,,,,ObjectId(580fbafddb6c7166485ec8d8),,,,,,,,,
+K Muthusamy,9500556500,moovlee - CBE,,ObjectId(5817818de6a248715b8c82b1),,,,,,,,,
+K Muthusamy,9500556500,moovlee - CBE,,ObjectId(5818c4917d9d0b4565225f68),,,,,,,,,
+,,,,ObjectId(581eb3ccd47aa3ba2daee4d9),,,,,,,,,
+,,,,ObjectId(581eb3ccd47aa3ba2daee4d9),,,,,,,,,
+,,,,ObjectId(581eb3ccd47aa3ba2daee4d9),,,,,,,,,
+,,,,ObjectId(581eb3ccd47aa3ba2daee4d9),,,,,,,,,
+,,,,ObjectId(581eb3ccd47aa3ba2daee4d9),,,,,,,,,
+,,,,ObjectId(581eb3ccd47aa3ba2daee4d9),,,,,,,,,
+,,,,ObjectId(581eb3ccd47aa3ba2daee4d9),,,,,,,,,
+,,,,ObjectId(581eb3ccd47aa3ba2daee4d9),,,,10.12,7,131,150,7.34,0.26
+,,,,ObjectId(581ee8e1735b9f807d8205ca),,,,,,,,,
+,,,,ObjectId(581ee8e1735b9f807d8205ca),,,,,,,,,
+,,,,ObjectId(580c7063b6b8bba5753cbaab),,,,,,,,,
+,,,,ObjectId(581ee8e1735b9f807d8205ca),,,,,,,,,
+,,,,ObjectId(58172823e6a248715b8c828a),,,,,,,,,
+,,,,ObjectId(58172823e6a248715b8c828a),,,,,,,,,
+,,,,ObjectId(58172823e6a248715b8c828a),,,,,,,,,
+,,,,ObjectId(581773aae6a248715b8c82b0),,,,,,,,,
+,,,,ObjectId(581773aae6a248715b8c82b0),,,,,,,,,
+,,,,ObjectId(581773aae6a248715b8c82b0),,,,,,,,,
+,,,,ObjectId(581773aae6a248715b8c82b0),,,,,,,,,
+,,,,ObjectId(581f2acaa725d8b97d26a4df),,,,,,,,,
+,,,,ObjectId(581f2acaa725d8b97d26a4df),,,,,,,,,
+K Muthusamy,9500556500,moovlee - CBE,4938,ObjectId(581ecc97d47aa3ba2daf0066),,,,9.77,7,127,150,7.11,0.25
+,,,,ObjectId(581351ff212e97d06aac74a7),,,,,,,,,
+,,,,ObjectId(5811b7332aa34cc33c9b9663),,,,,,,,,
+,,,,ObjectId(5811b7332aa34cc33c9b9663),,,,,,,,,
+,,,,ObjectId(58105998db6c7166485ec8e9),,,,,,,,,
+Test Driver,9632065649,Test Vendor,636,ObjectId(58105998db6c7166485ec8e9),,,,0,74,70,,3.92,0.14
+,,,,ObjectId(58141256212e97d06aac74b4),,,,,,,,,
+RAJENDRAN A,9500206550,moovlee - CBE,,ObjectId(58141256212e97d06aac74b4),,,,,,,,,
+RAJENDRAN A,9500206550,moovlee - CBE,,ObjectId(58141256212e97d06aac74b4),,,,,,,,,
+Test Driver,9632065649,Test Vendor,636,ObjectId(58105998db6c7166485ec8e9),,,,0,74,70,,3.92,0.14
+,,,,ObjectId(58105998db6c7166485ec8e9),,,,,,,,,
