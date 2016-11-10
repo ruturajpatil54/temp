@@ -1,4 +1,4 @@
-driver.name,driver.phone_1,vendor.name,pickup_distance,receipt.distance,receipt.total_bill,receipt.priceWithoutCoupon,receipt.discount,receipt.service_tax,receipt.swach_bharat_tax,coupon_obj[0].code
-S Karunakaran,8695595095,moovlee - CBE,,,,,,,,
-Moovlee,7406049668,moovlee - CBE,1323,0,52,50,,2.8,0.1,
-K Muthusamy,9500556500,moovlee - CBE,,,,,,,,
+status,driver.name,driver.phone_1,vendor.name,pickup_distance,receipt.distance,receipt.total_bill,receipt.priceWithoutCoupon,receipt.discount,receipt.service_tax,receipt.swach_bharat_tax,coupon_obj[0].code
+rider_canceled,S Karunakaran,8695595095,moovlee - CBE,,,,,,,,
+ride_complete,Moovlee,7406049668,moovlee - CBE,1323,0,52,50,,2.8,0.1,
+rider_canceled,K Muthusamy,9500556500,moovlee - CBE,,,,,,,,
