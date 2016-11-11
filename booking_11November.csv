@@ -1,0 +1,12 @@
+status,driver.name,driver.phone_1,vendor.name,pickup_distance,receipt.distance,receipt.total_bill,receipt.priceWithoutCoupon,receipt.discount,receipt.service_tax,receipt.swach_bharat_tax,coupon_obj[0].code
+time_out,RAJENDRAN A,9500206550,moovlee - CBE,,,,,,,,
+time_out,RAJENDRAN A,9500206550,moovlee - CBE,,,,,,,,
+rider_canceled,RAJENDRAN A,9500206550,moovlee - CBE,,,,,,,,
+ride_complete,K Muthusamy,9500556500,moovlee - CBE,2.044,6.69,5,96,150,5.38,0.19,
+rider_canceled,K Muthusamy,9500556500,moovlee - CBE,,,,,,,,
+ride_complete,K Muthusamy,9500556500,moovlee - CBE,3122,3.53,3,65,150,3.64,0.13,
+ride_complete,K Muthusamy,9500556500,moovlee - CBE,84,3.52,3,65,150,3.64,0.13,
+rider_canceled,K Muthusamy,9500556500,moovlee - CBE,,,,,,,,
+rider_canceled,RAJENDRAN A,9500206550,moovlee - CBE,,,,,,,,
+rider_canceled,RAJENDRAN A,9500206550,moovlee - CBE,,,,,,,,
+rider_canceled,RAJENDRAN A,9500206550,moovlee - CBE,,,,,,,,
