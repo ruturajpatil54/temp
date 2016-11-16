@@ -1,4 +1,4 @@
-createdAt,status,driver.name,driver.phone_1,vendor.name,pickup_distance,receipt.distance,receipt.total_bill,receipt.priceWithoutCoupon,receipt.discount,receipt.service_tax,receipt.swach_bharat_tax,userdata.email,userdata.phone
+createdAt,status,driver.name,driver.phone_1,vendor.name,pickup_distance,receipt.distance,receipt.total_bill,receipt.priceWithoutCoupon,receipt.discount,receipt.service_tax,receipt.swach_bharat_tax,userdata[0].email,userdata[0].phone
 2016-11-02T05:07:34.889Z,ride_complete,K Muthusamy,9500556500,moovlee - CBE,1679,0,2,50,150,2.8,0.1,,
 2016-11-02T06:18:36.050Z,ride_complete,Amlan Dutta,9900505372,Test Vendor,2171,4.92,85,81,,4.54,0.16,,
 2016-11-02T06:37:13.065Z,rider_canceled,Amlan Dutta,9900505372,Test Vendor,,,,,,,,,
