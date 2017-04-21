@@ -1,4 +1,4 @@
-createdAt,_id,name,phone_1,phone_2,dob,vendor,custom_id,pan,vendordata[0].name,vendordata[0].email,vendordata[0].phone_1
+createdAt,_id,name,phone_1,phone_2,dob,vendor,custom_id,pan,vendordata.name,vendordata.email,vendordata.phone_1
 2016-10-26T07:16:12.433Z,ObjectId(5810583cdb6c7166485ec8e6),Test Driver,9632065649,8087844366,2016-10-26T00:00:00.000Z,ObjectId(57b306750a33101a3a1cdf14),DR16151,PAN123456,,,
 2016-10-26T08:13:06.732Z,ObjectId(58106592e00b2d074e80ec54),Test Driver 3,8149528833,,2016-10-26T00:00:00.000Z,ObjectId(57b306750a33101a3a1cdf14),DR41578,PAN321345,,,
 2016-10-26T12:57:14.585Z,ObjectId(5810a82a53358eb35bae9d91),P George Anto,7022282211,8428266641,1983-07-12T00:00:00.000Z,ObjectId(5810a31e53358eb35bae9d8d),DR36703,APOPG9164L,,,
