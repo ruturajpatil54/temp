@@ -1,0 +1,11 @@
+{"_id":{"$oid":"57b2ef0ec460110d49fe9dbc"},"company_name":"taxiwaxi","brand_name":"Moovlee"}
+{"_id":{"$oid":"57b306750a33101a3a1cdf14"},"company_name":"Test","brand_name":"Test","createdAt":{"$date":"2016-08-16T12:26:29.505Z"}}
+{"_id":{"$oid":"5810a31e53358eb35bae9d8d"},"company_name":"xenops technologies pvt ltd","brand_name":"xenops technologies","createdAt":{"$date":"2016-10-26T12:35:42.438Z"}}
+{"_id":{"$oid":"58172e35e6a248715b8c8295"},"company_name":"friends track call taxi","brand_name":"Friends Track","createdAt":{"$date":"2016-10-31T11:42:45.857Z"}}
+{"_id":{"$oid":"58607f6ee184bb1b0fdcfc2f"},"company_name":"south zone taxi","brand_name":"South Zone","createdAt":{"$date":"2016-12-26T02:24:46.770Z"}}
+{"_id":{"$oid":"588c86d503fbba5c49fb604f"},"company_name":"dd travels","brand_name":"DD Travels","createdAt":{"$date":"2017-01-28T11:56:05.820Z"}}
+{"_id":{"$oid":"58941a50d155ad9d13b890df"},"company_name":"yellow taxi","brand_name":"Yellow Taxi","createdAt":{"$date":"2017-02-03T05:51:12.722Z"}}
+{"_id":{"$oid":"58c1151df5151d6354518cda"},"company_name":"UK Taxi","brand_name":"UK Taxi","createdAt":{"$date":"2017-03-09T08:41:01.663Z"}}
+{"_id":{"$oid":"596c5ea7e4df274719f13ab4"},"company_name":"SMARTTAXI (P) LIMITED","brand_name":"Smart Cabs","createdAt":{"$date":"2017-07-17T06:52:23.120Z"}}
+{"_id":{"$oid":"59de0c7c38a6654a4fa65905"},"company_name":"smarttaxi p limited","brand_name":"SMARTTAXI TUP","createdAt":{"$date":"2017-10-11T12:20:12.366Z"}}
+{"_id":{"$oid":"5a002692348b8b474947d273"},"company_name":"moovlee test","brand_name":"TestCab","createdAt":{"$date":"2017-11-06T09:08:34.221Z"}}
